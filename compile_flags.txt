@@ -1,1 +1,9 @@
+-std=c++17
 -Iincludes
+-Iexternal/VulkanMemoryAllocator/include
+-Iexternal/fastgltf/include
+-Iexternal/vk-bootstrap/src
+-Iexternal/fmt/include
+-Iexternal/imgui
+-Iexternal/glm
+-Iexternal

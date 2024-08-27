@@ -1,4 +1,11 @@
 #include <SDL2/SDL.h>
+#include "fastgltf/core.hpp"
+#include "fmt/core.h"
+#include "glm/glm.hpp"
+#include "imgui.h"
+#include "stb/stb_image.h"
+#include "VkBootstrap.h"
+#include "vk_mem_alloc.h"
 
 int main()
 {
